@@ -1,4 +1,0 @@
-name: needCustomJoinAndLeaveMessage
-api-version: 1.13
-main: fr.alex92380.needcustomjoin.Main
-version: 1.0

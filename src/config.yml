@@ -1,0 +1,12 @@
+########################
+#        Author:       #
+#       Alex92380      #
+# You can use %player% #
+#to get the name of the#
+# player.              #
+########################
+#set null for none
+NeedCustomJoin:
+  Join: welcome %player%
+  Leave: bye, %player%
+
